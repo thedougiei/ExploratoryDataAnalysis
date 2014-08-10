@@ -1,4 +1,4 @@
 ExploratoryDataAnalysis
 =======================
 
-Repositroy for coursera - module 4
+Repository for coursera - module 4
